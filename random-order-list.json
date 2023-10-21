@@ -1,0 +1,77 @@
+[
+  {
+    "price": 105,
+    "product": "BTCUSD",
+    "operation": "buy"
+  },
+  {
+    "price": 1060,
+    "product": "BTCUSD",
+    "operation": "buy"
+  },
+  {
+    "price": 1070,
+    "product": "BTCUSD",
+    "operation": "buy"
+  },
+  {
+    "price": 1020,
+    "product": "BTCUSD",
+    "operation": "buy"
+  },
+  {
+    "price": 1400,
+    "product": "BTCUSD",
+    "operation": "buy"
+  },
+  {
+    "price": 1600,
+    "product": "BTCUSD",
+    "operation": "sell"
+  },
+  {
+    "price": 1020,
+    "product": "BTCUSD",
+    "operation": "buy"
+  },
+  {
+    "price": 1040,
+    "product": "BTCUSD",
+    "operation": "buy"
+  },
+  {
+    "price": 1030,
+    "product": "BTCUSD",
+    "operation": "buy"
+  },
+  {
+    "price": 100,
+    "product": "BTCUSD",
+    "operation": "sell"
+  },
+  {
+    "price": 100,
+    "product": "BTCUSD",
+    "operation": "sell"
+  },
+  {
+    "price": 10043,
+    "product": "BTCUSD",
+    "operation": "sell"
+  },
+  {
+    "price": 123200,
+    "product": "ETHUSD",
+    "operation": "buy"
+  },
+  {
+    "price": 100,
+    "product": "BTCUSD",
+    "operation": "buy"
+  },
+  {
+    "price": 103240,
+    "product": "BTCUSD",
+    "operation": "buy"
+  }
+]
